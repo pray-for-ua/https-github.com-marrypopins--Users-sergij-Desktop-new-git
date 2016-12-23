@@ -1,1 +1,3 @@
 print («how do you do?»)
+print(«where are you from?»)
+print(«have a nice day»)
