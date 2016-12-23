@@ -1,2 +1,3 @@
 print("helpp")
 print(«it is a good idea,i will help you»)
+print(«thankss»)
