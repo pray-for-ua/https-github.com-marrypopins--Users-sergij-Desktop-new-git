@@ -1,1 +1,2 @@
-print("goodbuy everyone")
+print("goodbye everyone")
+print(«good luck»)
