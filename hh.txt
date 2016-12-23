@@ -1,4 +1,4 @@
-print("hello")
-print(«mkm»)
-print(«gaeluhguegh;uaehg;auoerhg;auehrguaergaeh»)
-print(«have a nice day»)
+print("hello:»)
+print(«mkm:»)
+print(«gaeluhguegh;uaehg;auoerhg;auehrguaergaeh:»)
+print(«have a nice day:»)
