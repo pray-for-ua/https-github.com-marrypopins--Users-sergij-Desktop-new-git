@@ -1,1 +1,1 @@
-print («how do you do?»)
+print ("hi")
