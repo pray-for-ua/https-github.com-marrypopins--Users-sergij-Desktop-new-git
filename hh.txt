@@ -1,2 +1,3 @@
 print("hello")
 print(«mkm»)
+print(«gaeluhguegh;uaehg;auoerhg;auehrguaergaeh»)
