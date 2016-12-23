@@ -1,4 +1,8 @@
 print("hello:»)
-print(«mkm:»)
+print(«mkm»)
 print(«gaeluhguegh;uaehg;auoerhg;auehrguaergaeh:»)
 print(«have a nice day:»)
+print(«hello my dear friend»)
+print(«hi»)
+print(«hi princess»)
+
