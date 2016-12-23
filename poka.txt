@@ -1,2 +1,3 @@
 print("goodbye everyone")
 print(«good luck»)
+print(«have a nice dayyyyyyyy»)
